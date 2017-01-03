@@ -1,6 +1,8 @@
 # paginator-clj
 A utility for pagination logic in Clojure and ClojureScript.
 
+[![Clojars Project](https://img.shields.io/clojars/v/paginator-clj.svg)](https://clojars.org/paginator-clj)
+
 Usage
 -----
 Pass a map of following structure to the paginate function:
